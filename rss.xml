@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Passive Income Vault]]></title>
         <description><![CDATA[Passive Income Vault]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/passive-income-vault/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 03:24:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 03:28:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/passive-income-vault/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Become a Real Estate Investor Without The Headaches]]></title>
-            <description><![CDATA[<h1>Become a Real Estate Investor Without The Headaches</h1>]]></description>
-            <link>undefinedbecome-a-real-estate-investor-without-the-headaches/index.html</link>
+            <description><![CDATA[<article><h1>Become a Real Estate Investor Without The Headaches</h1><p>If you are thinking you want to become a real estate investor but are afraid of all the headaches that come with it, you may still want to consider the opportunity</p></article>]]></description>
+            <link>https://thegrid.ai/passive-income-vault/become-a-real-estate-investor-without-the-headaches/index.html</link>
             <guid isPermaLink="false">bd770073-cf3e-47df-abcd-b8dc3830278e</guid>
-            <pubDate>Mon, 29 Feb 2016 03:23:58 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 03:28:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

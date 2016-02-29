@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T03:28:29.629Z'
-dateModified: '2016-02-29T03:28:24.961Z'
+datePublished: '2016-02-29T03:45:22.651Z'
+dateModified: '2016-02-29T03:45:03.335Z'
 title: Become a Real Estate Investor Without The Headaches
 author: []
 sourcePath: _posts/2016-02-29-become-a-real-estate-investor-without-the-headaches.md
@@ -22,6 +22,8 @@ url: become-a-real-estate-investor-without-the-headaches/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7216c4a6-1dbe-4b68-a314-cb4fe65dd879.jpg)
+
 # Become a Real Estate Investor Without The Headaches
 
 If you are thinking you want to become a real estate investor but are afraid of all the headaches that come with it, you may still want to consider the opportunity
@@ -50,6 +52,5 @@ Hands down the best hands-free real estate investment company is
 Memphis Invest ([http://memphisinvest.com][0]). Be sure and tell Amanda Holbrook I sent you.  She will get you started on the right track to real  
 estate investing.
 
-# 
 
 [0]: http://memphisinvest.com/
